@@ -1,0 +1,15 @@
+Parametric Wall Art Creator
+
+Install by copying the single folder named Parametric Wall Art Creator into your Vectric Gadgets folder, then restart VCarve/Aspire.
+
+Expected structure:
+Parametric Wall Art Creator/
+  Parametric Wall Art Creator.lua
+  INSTALL.txt
+
+Notes:
+- This edition runs in either inch-based or millimeter-based jobs.
+- The gadget follows the active Vectric job units automatically.
+- Default clamp margin remains 0.75 in / 19.05 mm on all sheet edges.
+- The gadget enforces the clamp margin as a minimum, even if a smaller value is entered.
+- Generate Toolpaths becomes available after Generate Geometry has been run in the current session.

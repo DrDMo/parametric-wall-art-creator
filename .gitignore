@@ -1,0 +1,5 @@
+# Redundant archive (source is tracked directly)
+*.zip
+
+# Duplicate filename variants
+Parametric_Wall_Art_Creator_User_Guide_v2.0.0.docx
